@@ -23,7 +23,7 @@ Tools and technologies used :-
 To Run:-
 
 	(01) Install python 3.8 to your system
-	(02) Install the packages givn in the requirements.txt file
+	(02) Install the all  packages
 	(03) Open command prompt.
 	(04) Go to the directory in command prompt.
 	(05)Type in command prompt:
